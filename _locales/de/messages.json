@@ -1,0 +1,323 @@
+{
+   "button_unfollowing": {
+      "message": "Hinzufügen zu Lesezeichen"
+   },
+   "add_to_bookmarks": {
+      "message": "Hinzufügen zu Lesezeichen"
+   },
+   "advanced_download_all_not_match": {
+      "message": "Keine Ergebnisse für gesetzte Parameter"
+   },
+   "advanced_settings_mass_download": {
+      "message": "Erweiterte Einstellungen (beta Version)"
+   },
+   "are_you_sure_delete": {
+      "message": "Diesen Beitrag wirklich löschen?"
+   },
+   "broadcast_finished": {
+      "message": "Dieses Live-Video wurde beendet"
+   },
+   "btn_cancel": {
+      "message": "Abbrechen"
+   },
+   "btn_continue": {
+      "message": "Weiter"
+   },
+   "btn_enough": {
+      "message": "Stoppen & Speichern"
+   },
+   "by_default_100": {
+      "message": "Standardwert 100%"
+   },
+   "change_rate": {
+      "message": "Ändere App-Bewertung"
+   },
+   "check_network": {
+      "message": "Überprüfe Deine Internetverbindung und versuche es nochmals"
+   },
+   "click_on_prev_for_download": {
+      "message": "Klicke Vorschau für Media-Download"
+   },
+   "close": {
+      "message": "Schließen"
+   },
+   "comments_is_muted": {
+      "message": "Kommentarfunktion ist abgeschaltet"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "delete_by_mobile_mode": {
+      "message": "Versuche Löschen im mobilen Modus"
+   },
+   "delete_error": {
+      "message": "Fehler beim Löschen"
+   },
+   "disconnect_notification": {
+      "message": "Aktualisiere diese Seite, um Downloader for Instagram™ fortzusetzen"
+   },
+   "do_not_show_again": {
+      "message": "Nicht noch einmal anzeigen"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_all": {
+      "message": "Alles herunterladen"
+   },
+   "download_more_100_warning": {
+      "message": "Laden einer großen Anzahl von Dateien kann viel Zeit benötigen und kann stocken"
+   },
+   "download_zip": {
+      "message": "Dateidownload vom Instagram™ Server"
+   },
+   "enter_search_query": {
+      "message": "Suchabfrage eingeben"
+   },
+   "enter_your_email": {
+      "message": "E-Mail Adresse"
+   },
+   "error403_possible_reasons": {
+      "message": "Mögliche Gründe"
+   },
+   "error403_reason_1": {
+      "message": "Instagram Server meldet \"Nicht autorisiert\". Versuche es mit neuem Login auf Dein Instagram-Konto."
+   },
+   "error403_reason_2": {
+      "message": "Konflikt mit einer anderen Erweiterung. Schalte andere Extensions aus und versuche es erneut."
+   },
+   "errorZip": {
+      "message": "Fehler beim Laden der Zip-Datei. Höchstwahrscheinlich hast Du versucht, zu viele Dateien innerhalb Ihrer Internetverbindung oder Computerleistung herunterzuladen. Versuche die Anzahl der Dateien zu reduzieren, damit es funktioniert oder probiere es in ein paar Sekunden nochmals. Manchmal hängen die Instagram™ Servers durch zu vielen Anfragen."
+   },
+   "error_dl_msg": {
+      "message": "Fehler beim Download"
+   },
+   "error_network": {
+      "message": "Netzwerkfehler"
+   },
+   "error_reason_xz": {
+      "message": "Nochmals versuchen"
+   },
+   "extDescription": {
+      "message": "Lade Fotos and Videos von Instagram™ schnell und einfach runter! Unterstützter Story-Download! Unterstützter Ein-Klick Massendownload!"
+   },
+   "extName": {
+      "message": "Downloader for Instagram™ + Direct Message"
+   },
+   "files_found_on_page": {
+      "message": "Beiträge auf dieser Seite"
+   },
+   "for_previous_days": {
+      "message": "Für die letzten … Tage"
+   },
+   "from": {
+      "message": "von"
+   },
+   "go_to_instagram": {
+      "message": "Gehe zu instagram.com"
+   },
+   "hide_live_comments": {
+      "message": "Verberge Kommentare"
+   },
+   "it_is_not_instagram": {
+      "message": "Keine Instagram™ Dateien in dieser Seite gefunden"
+   },
+   "it_is_phone_mode": {
+      "message": "Pop-up inaktiv in mobiler Ansicht"
+   },
+   "lang": {
+      "message": "de"
+   },
+   "loading": {
+      "message": "Laden"
+   },
+   "mass_download_pro": {
+      "message": "Expertenmodus"
+   },
+   "mass_download_pro_back": {
+      "message": "Standardansicht"
+   },
+   "most_liked": {
+      "message": "▪ meiste Likes"
+   },
+   "most_viewed": {
+      "message": "▪ meiste Zugriffe"
+   },
+   "new_post": {
+      "message": "Neuer Beitrag"
+   },
+   "new_story": {
+      "message": "Neue Story"
+   },
+   "next": {
+      "message": "Weiter"
+   },
+   "no": {
+      "message": "Nein"
+   },
+   "noLinksFound": {
+      "message": "Keine Links gefunden"
+   },
+   "notAuthorizedMsg": {
+      "message": "Bitte in Ihren Instagram-Account einloggen"
+   },
+   "not_valid_email": {
+      "message": "E-Mail Adresse ungültig"
+   },
+   "ok": {
+      "message": "Okay"
+   },
+   "only_photo": {
+      "message": "• nur Bilder kopieren"
+   },
+   "only_video": {
+      "message": "• nur Videos kopieren"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "Öffne instagram.com in neuem Tab um weiter zu surfen."
+   },
+   "parallel_all_download_denied": {
+      "message": "Bitte warte bis Dein aktueller Download in dem anderen Tab abgeschlossen ist."
+   },
+   "pleaseWait": {
+      "message": "Bitte warten"
+   },
+   "prepare_zip_links": {
+      "message": "Erstelle Links"
+   },
+   "rate_us_modal": {
+      "message": "Wenn es Dir gefällt, bewerte uns."
+   },
+   "rate_us_popup": {
+      "message": "Bewerte uns"
+   },
+   "reloadPage": {
+      "message": "Bitte Seite aktualisieren, um Downloader for Instagram™ zu aktivieren."
+   },
+   "reloadPageLong": {
+      "message": "Aktualisiere die Instagram™ Seite nach der Installation"
+   },
+   "reloadPageShort": {
+      "message": "Aktualisiere Seite"
+   },
+   "remind_later": {
+      "message": "Erinnere mich später"
+   },
+   "report_a_problem": {
+      "message": "Feedback geben"
+   },
+   "retry_requests": {
+      "message": "Wiederhole Dateien"
+   },
+   "scroll_page_for_download_more": {
+      "message": "Scrolle die Seite runter, um mehr Dateien zu laden"
+   },
+   "send": {
+      "message": "Senden"
+   },
+   "set_percent": {
+      "message": "Prozent"
+   },
+   "set_range": {
+      "message": "Downloadbereich"
+   },
+   "show_live_comments": {
+      "message": "Zeige Kommentare"
+   },
+   "stories_page_filter_input": {
+      "message": "Nach Name filtern"
+   },
+   "stories_page_friends": {
+      "message": "Freunde"
+   },
+   "stories_page_friends_stories_header": {
+      "message": "Stories"
+   },
+   "stories_page_live_not_found": {
+      "message": "Story nicht gefunden"
+   },
+   "stories_page_locations": {
+      "message": "Lage"
+   },
+   "stories_page_no_stories_msg": {
+      "message": "Keine neuen Stories"
+   },
+   "stories_page_no_stories_something_went_wrong_msg": {
+      "message": "Keine Stories. Etwas ist schief gelaufen :("
+   },
+   "stories_page_search": {
+      "message": "Suchen"
+   },
+   "stories_page_search_btn_people": {
+      "message": "Suchen nach Benutzern"
+   },
+   "stories_page_search_btn_places": {
+      "message": "Orten finden"
+   },
+   "stories_page_search_btn_tags": {
+      "message": "Tags suchen"
+   },
+   "stories_page_search_input_placeholder": {
+      "message": "Schlüsselwort eingeben"
+   },
+   "stories_page_top_lives": {
+      "message": "Top lives"
+   },
+   "story_is_added": {
+      "message": "Story wurde erfolgreich hinzugefügt"
+   },
+   "story_is_not_available": {
+      "message": "Story ist nicht länger verfügbar"
+   },
+   "symbols_left": {
+      "message": "Zeichen übrig"
+   },
+   "tab_is_not_complete": {
+      "message": "Aktueller Tab ist nicht vollständig geladen"
+   },
+   "tag_people": {
+      "message": "Personen markieren"
+   },
+   "tag_people_confirm": {
+      "message": "Bestätigen"
+   },
+   "tag_people_msg": {
+      "message": "Klicken auf das Foto, um Personen zu markieren"
+   },
+   "thankyouText": {
+      "message": "Danke für die Installation von Downloader for Instagram™!"
+   },
+   "to": {
+      "message": "bis"
+   },
+   "upload_by_mobile_mode": {
+      "message": "Versuche Upload im mobilen Modus"
+   },
+   "upload_error": {
+      "message": "Fehler beim Upload"
+   },
+   "upload_file": {
+      "message": "Foto hochladen (nur JPEG)"
+   },
+   "upload_to_profile": {
+      "message": "Hinzufügen zu Profil"
+   },
+   "upload_to_stories": {
+      "message": "Hinzufügen zu Stories"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "Keine Panik! Wir warten auf Antwort vom Instagram.com Server."
+   },
+   "write_caption": {
+      "message": "Bildbeschreibung (max. 2000 Zeichen)"
+   },
+   "write_us": {
+      "message": "Schreib' uns"
+   },
+   "your_email": {
+      "message": "Nachricht"
+   },
+   "your_rate": {
+      "message": "Deine Bewertung"
+   }
+}

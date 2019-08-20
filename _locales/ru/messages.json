@@ -1,0 +1,323 @@
+{
+   "button_unfollowing": {
+      "message": "Hinzufügen zu Lesezeichen"
+   },
+   "add_to_bookmarks": {
+      "message": "Добавить в закладки"
+   },
+   "advanced_download_all_not_match": {
+      "message": "По заданным критериям ничего не найдено"
+   },
+   "advanced_settings_mass_download": {
+      "message": "Расширенные настройки (бета-версия)"
+   },
+   "are_you_sure_delete": {
+      "message": "Вы уверены, что хотите удалить публикацию?"
+   },
+   "broadcast_finished": {
+      "message": "Прямой эфир завершен"
+   },
+   "btn_cancel": {
+      "message": "Отмена"
+   },
+   "btn_continue": {
+      "message": "Продолжить"
+   },
+   "btn_enough": {
+      "message": "Остановить и сохранить"
+   },
+   "by_default_100": {
+      "message": "По умолчанию 100%"
+   },
+   "change_rate": {
+      "message": "Изменить оценку"
+   },
+   "check_network": {
+      "message": "Проверьте свое Интренет соединение и повторите попытку."
+   },
+   "click_on_prev_for_download": {
+      "message": "Кликните на превью, чтобы сачать медиа"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "comments_is_muted": {
+      "message": "Комментарии выключены"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "delete_by_mobile_mode": {
+      "message": "Попробуйте удалить фото в режиме телефона"
+   },
+   "delete_error": {
+      "message": "Ошибка удаления"
+   },
+   "disconnect_notification": {
+      "message": "Перегрузите страницу для продолжения работы с Downloader for Instagram™"
+   },
+   "do_not_show_again": {
+      "message": "Больше не показывать"
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "download_all": {
+      "message": "Скачать все"
+   },
+   "download_more_100_warning": {
+      "message": "Загрузка большого количества файлов займет много времени, и может завершиться неудачей"
+   },
+   "download_zip": {
+      "message": "Скачивание файлов с сервера Instagram™"
+   },
+   "enter_search_query": {
+      "message": "Введите поисковый запрос"
+   },
+   "enter_your_email": {
+      "message": "Ваш e-mail"
+   },
+   "error403_possible_reasons": {
+      "message": "Возможные причины"
+   },
+   "error403_reason_1": {
+      "message": "Сервер Instagram ответил \"Ошибка авторизации\". Попробуйте перелогиниится в Instagram и повторить попытку."
+   },
+   "error403_reason_2": {
+      "message": "Конфликт с другим расширением. Попробуйте отключить другие расширения и повторить попытку."
+   },
+   "errorZip": {
+      "message": "Ошибка получения zip файла. Скорее всего, вы попытались скачать слишком много файлов для вашей скорости интернет соединения или мощности компьютера. Попробуйте уменьшить количество файлов для загрузки или просто повторите попытку позже"
+   },
+   "error_dl_msg": {
+      "message": "Ошибка скачивания"
+   },
+   "error_network": {
+      "message": "Ошибка сети"
+   },
+   "error_reason_xz": {
+      "message": "Попробуйте еще раз"
+   },
+   "extDescription": {
+      "message": "Скачать фото и видео с Instagram™ быстро и легко! Поддерживается загрузка Историй! Поддерживается массовое скачивание в один клик!"
+   },
+   "extName": {
+      "message": "Downloader for Instagram™ + Direct Message"
+   },
+   "files_found_on_page": {
+      "message": "На странице найдено публикаций"
+   },
+   "for_previous_days": {
+      "message": "За последние дни"
+   },
+   "from": {
+      "message": "с"
+   },
+   "go_to_instagram": {
+      "message": "Перейти на Instagram.com"
+   },
+   "hide_live_comments": {
+      "message": "Скрыть комментарии"
+   },
+   "it_is_not_instagram": {
+      "message": "На данной странице не обнаружено Instagram™ медиа"
+   },
+   "it_is_phone_mode": {
+      "message": "Попап не активен в мобильном представлении"
+   },
+   "lang": {
+      "message": "ru"
+   },
+   "loading": {
+      "message": "Загрузка"
+   },
+   "mass_download_pro": {
+      "message": "Расширенные (Beta)"
+   },
+   "mass_download_pro_back": {
+      "message": "Скрыть расширенные"
+   },
+   "most_liked": {
+      "message": "Самые популярные"
+   },
+   "most_viewed": {
+      "message": "Самые просмтриваемые"
+   },
+   "new_post": {
+      "message": "Новая Публикация"
+   },
+   "new_story": {
+      "message": "Новая История"
+   },
+   "next": {
+      "message": "Далее"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "noLinksFound": {
+      "message": "Ссылки не найдены"
+   },
+   "notAuthorizedMsg": {
+      "message": "Пожалуйста, авторизируйтесь на сайте instagram.com"
+   },
+   "not_valid_email": {
+      "message": "Некорректный email"
+   },
+   "ok": {
+      "message": "Да"
+   },
+   "only_photo": {
+      "message": "Только фото"
+   },
+   "only_video": {
+      "message": "Только видео"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "Открыть instagram.com в новой вкладке пока идет скачивание"
+   },
+   "parallel_all_download_denied": {
+      "message": "Дождитесь завершения скачивания в другой вкладке"
+   },
+   "pleaseWait": {
+      "message": "Пожалуйста, подождите"
+   },
+   "prepare_zip_links": {
+      "message": "Подготовка файлов"
+   },
+   "rate_us_modal": {
+      "message": "Если Вам понравилось, оцените расширение"
+   },
+   "rate_us_popup": {
+      "message": "Оценить"
+   },
+   "reloadPage": {
+      "message": "Перегрузите страницу для активации Downloader for Instagram™"
+   },
+   "reloadPageLong": {
+      "message": "После установки перегрузите страницу с Instagram™"
+   },
+   "reloadPageShort": {
+      "message": "Перегрузить страницу"
+   },
+   "remind_later": {
+      "message": "Напомнить позже"
+   },
+   "report_a_problem": {
+      "message": "Отправить отзыв"
+   },
+   "retry_requests": {
+      "message": "Повторная попытка получения файлов"
+   },
+   "scroll_page_for_download_more": {
+      "message": "Чтобы загрузить больше файлов прокрутите страницу вниз"
+   },
+   "send": {
+      "message": "Отправить"
+   },
+   "set_percent": {
+      "message": "Задать процент"
+   },
+   "set_range": {
+      "message": "Укажите диапазон"
+   },
+   "show_live_comments": {
+      "message": "Показать комментарии"
+   },
+   "stories_page_filter_input": {
+      "message": "Фильтр по имени"
+   },
+   "stories_page_friends": {
+      "message": "Друзья"
+   },
+   "stories_page_friends_stories_header": {
+      "message": "Истории"
+   },
+   "stories_page_live_not_found": {
+      "message": "Трансляция не найдена"
+   },
+   "stories_page_locations": {
+      "message": "Страны"
+   },
+   "stories_page_no_stories_msg": {
+      "message": "Нет историй"
+   },
+   "stories_page_no_stories_something_went_wrong_msg": {
+      "message": "Нет историй. Что-то пошло не так :("
+   },
+   "stories_page_search": {
+      "message": "Поиск"
+   },
+   "stories_page_search_btn_people": {
+      "message": "Найти пользователей"
+   },
+   "stories_page_search_btn_places": {
+      "message": "Найти места"
+   },
+   "stories_page_search_btn_tags": {
+      "message": "Найти теги"
+   },
+   "stories_page_search_input_placeholder": {
+      "message": "Введите ключевое слово"
+   },
+   "stories_page_top_lives": {
+      "message": "Популярные трансляции"
+   },
+   "story_is_added": {
+      "message": "История успешно добавлена"
+   },
+   "story_is_not_available": {
+      "message": "История более недоступна"
+   },
+   "symbols_left": {
+      "message": "Символов осталось"
+   },
+   "tab_is_not_complete": {
+      "message": "Загрузка текущей вкладки не завершена"
+   },
+   "tag_people": {
+      "message": "Отметить людей"
+   },
+   "tag_people_confirm": {
+      "message": "Готово"
+   },
+   "tag_people_msg": {
+      "message": "Кликните по фото, чтобы отметить людей"
+   },
+   "thankyouText": {
+      "message": "Спасибо за установку Downloader for Instagram™!"
+   },
+   "to": {
+      "message": "по"
+   },
+   "upload_by_mobile_mode": {
+      "message": "Попробуйте добавить фото в режиме телефона"
+   },
+   "upload_error": {
+      "message": "Ошибка добавления файла"
+   },
+   "upload_file": {
+      "message": "Добавить фото (только jpeg)"
+   },
+   "upload_to_profile": {
+      "message": "Добавить в Профайл"
+   },
+   "upload_to_stories": {
+      "message": "Добавить в Истории"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "Не волнуйтесь. Ожидаем ответ от сервера instagram.com"
+   },
+   "write_caption": {
+      "message": "Добавить подпись... (максимум 2000 символов)"
+   },
+   "write_us": {
+      "message": "Напишите нам"
+   },
+   "your_email": {
+      "message": "email"
+   },
+   "your_rate": {
+      "message": "Ваша оценка"
+   }
+}

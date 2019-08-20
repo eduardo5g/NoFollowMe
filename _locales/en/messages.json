@@ -1,0 +1,323 @@
+{
+   "button_unfollowing": {
+      "message": "Seguir apenas os seguidores"
+   },
+   "add_to_bookmarks": {
+      "message": "Add to Bookmarks"
+   },
+   "advanced_download_all_not_match": {
+      "message": "No results for set parameters"
+   },
+   "advanced_settings_mass_download": {
+      "message": "Advanced settings (beta version)"
+   },
+   "are_you_sure_delete": {
+      "message": "Are you sure you want to delete this post?"
+   },
+   "broadcast_finished": {
+      "message": "This live video has ended"
+   },
+   "btn_cancel": {
+      "message": "Cancel"
+   },
+   "btn_continue": {
+      "message": "Continue"
+   },
+   "btn_enough": {
+      "message": "Stop & Save"
+   },
+   "by_default_100": {
+      "message": "by default 100%"
+   },
+   "change_rate": {
+      "message": "Change app rating"
+   },
+   "check_network": {
+      "message": "Check your Internet connection and try again"
+   },
+   "click_on_prev_for_download": {
+      "message": "Click preview to download media"
+   },
+   "close": {
+      "message": "Close"
+   },
+   "comments_is_muted": {
+      "message": "Comments feature is muted"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "delete_by_mobile_mode": {
+      "message": "Try to delete from Mobile mode"
+   },
+   "delete_error": {
+      "message": "Delete Error"
+   },
+   "disconnect_notification": {
+      "message": "Refresh this page to continue using Downloader for Instagram™"
+   },
+   "do_not_show_again": {
+      "message": "Don't show this again"
+   },
+   "download": {
+      "message": "Download"
+   },
+   "download_all": {
+      "message": "Download all"
+   },
+   "download_more_100_warning": {
+      "message": "Downloading big amount of files may take much time and can falter"
+   },
+   "download_zip": {
+      "message": "Downloading files from Instagram™ server"
+   },
+   "enter_search_query": {
+      "message": "Enter search query"
+   },
+   "enter_your_email": {
+      "message": "Your e-mail"
+   },
+   "error403_possible_reasons": {
+      "message": "Possible reasons"
+   },
+   "error403_reason_1": {
+      "message": "Instagram server says \"Unathorized\". Try to relogin to your instagram account."
+   },
+   "error403_reason_2": {
+      "message": "Conflict with another extension. Turn off other extensions and try again."
+   },
+   "errorZip": {
+      "message": "Error when getting Zip file. Most likely you have tried to download too many files within your Internet connection speed or computer power. Try to reduce number of files to make it work or try again in few seconds. Sometimes Instagram™ servers get stuck on a lot of requests."
+   },
+   "error_dl_msg": {
+      "message": "Download error"
+   },
+   "error_network": {
+      "message": "Error Network"
+   },
+   "error_reason_xz": {
+      "message": "Try again"
+   },
+   "extDescription": {
+      "message": "Try our new tools for Instagram™: download photo, video and stories, view Live, mass download, direct message, upload photo."
+   },
+   "extName": {
+      "message": "Downloader for Instagram™ + Direct Message"
+   },
+   "files_found_on_page": {
+      "message": "Posts found on page"
+   },
+   "for_previous_days": {
+      "message": "For previous days"
+   },
+   "from": {
+      "message": "from"
+   },
+   "go_to_instagram": {
+      "message": "Go to Instagram.com"
+   },
+   "hide_live_comments": {
+      "message": "Hide comments"
+   },
+   "it_is_not_instagram": {
+      "message": "Instagram™ media not found in this page"
+   },
+   "it_is_phone_mode": {
+      "message": "Pop-up is mot active in mobile view"
+   },
+   "lang": {
+      "message": "en"
+   },
+   "loading": {
+      "message": "Loading"
+   },
+   "mass_download_pro": {
+      "message": "Advanced"
+   },
+   "mass_download_pro_back": {
+      "message": "Hide advanced"
+   },
+   "most_liked": {
+      "message": "Most liked"
+   },
+   "most_viewed": {
+      "message": "Most viewed"
+   },
+   "new_post": {
+      "message": "New Post"
+   },
+   "new_story": {
+      "message": "New Story"
+   },
+   "next": {
+      "message": "Next"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noLinksFound": {
+      "message": "Links not found"
+   },
+   "notAuthorizedMsg": {
+      "message": "Please login to your Instagram account"
+   },
+   "not_valid_email": {
+      "message": "email not valid"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "only_photo": {
+      "message": "Only photo"
+   },
+   "only_video": {
+      "message": "Only video"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "Open Instagram.com in new tab to continue surfing."
+   },
+   "parallel_all_download_denied": {
+      "message": "Please wait until your current downloading in another tab is finished."
+   },
+   "pleaseWait": {
+      "message": "Please wait"
+   },
+   "prepare_zip_links": {
+      "message": "Preparing links"
+   },
+   "rate_us_modal": {
+      "message": "If you like it, rate us."
+   },
+   "rate_us_popup": {
+      "message": "Rate us"
+   },
+   "reloadPage": {
+      "message": "Please refresh page to activate Downloader for Instagram™"
+   },
+   "reloadPageLong": {
+      "message": "Refresh Instagram™ page after installation"
+   },
+   "reloadPageShort": {
+      "message": "Refresh page"
+   },
+   "remind_later": {
+      "message": "Remind me later"
+   },
+   "report_a_problem": {
+      "message": "Leave feedback"
+   },
+   "retry_requests": {
+      "message": "Retrying files"
+   },
+   "scroll_page_for_download_more": {
+      "message": "Scroll down the page to download more files"
+   },
+   "send": {
+      "message": "Send"
+   },
+   "set_percent": {
+      "message": "Set percent"
+   },
+   "set_range": {
+      "message": "Set the range"
+   },
+   "show_live_comments": {
+      "message": "Show comments"
+   },
+   "stories_page_filter_input": {
+      "message": "Filter by name"
+   },
+   "stories_page_friends": {
+      "message": "Friends"
+   },
+   "stories_page_friends_stories_header": {
+      "message": "Stories"
+   },
+   "stories_page_live_not_found": {
+      "message": "Story not found"
+   },
+   "stories_page_locations": {
+      "message": "Locations"
+   },
+   "stories_page_no_stories_msg": {
+      "message": "No new stories"
+   },
+   "stories_page_no_stories_something_went_wrong_msg": {
+      "message": "No stories. Something went wrong :("
+   },
+   "stories_page_search": {
+      "message": "Search"
+   },
+   "stories_page_search_btn_people": {
+      "message": "Find users"
+   },
+   "stories_page_search_btn_places": {
+      "message": "Find places"
+   },
+   "stories_page_search_btn_tags": {
+      "message": "Find tags"
+   },
+   "stories_page_search_input_placeholder": {
+      "message": "Enter key word"
+   },
+   "stories_page_top_lives": {
+      "message": "Top lives"
+   },
+   "story_is_added": {
+      "message": "Story is added successfully"
+   },
+   "story_is_not_available": {
+      "message": "Story is no longer available"
+   },
+   "symbols_left": {
+      "message": "Characters left"
+   },
+   "tab_is_not_complete": {
+      "message": "Current tab loading is not complete"
+   },
+   "tag_people": {
+      "message": "Tag People"
+   },
+   "tag_people_confirm": {
+      "message": "Confirm"
+   },
+   "tag_people_msg": {
+      "message": "Click photo to tag people"
+   },
+   "thankyouText": {
+      "message": "Thank you for installing Downloader for Instagram™!"
+   },
+   "to": {
+      "message": "to"
+   },
+   "upload_by_mobile_mode": {
+      "message": "Try to upload from Mobile mode"
+   },
+   "upload_error": {
+      "message": "Upload Error"
+   },
+   "upload_file": {
+      "message": "Upload photo (jpeg only)"
+   },
+   "upload_to_profile": {
+      "message": "Add to Profile"
+   },
+   "upload_to_stories": {
+      "message": "Add to Stories"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "Don't Panic! We're waiting for respond of Instagram.com Server."
+   },
+   "write_caption": {
+      "message": "Write a caption... (max 2000 characters)"
+   },
+   "write_us": {
+      "message": "write us"
+   },
+   "your_email": {
+      "message": "email"
+   },
+   "your_rate": {
+      "message": "your rate"
+   }
+}

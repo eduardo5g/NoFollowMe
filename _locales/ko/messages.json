@@ -1,0 +1,323 @@
+{
+   "button_unfollowing": {
+      "message": "Hinzufügen zu Lesezeichen"
+   },
+   "add_to_bookmarks": {
+      "message": "북마크에 추가"
+   },
+   "advanced_download_all_not_match": {
+      "message": "기준은 대로 결과가 없습니다"
+   },
+   "advanced_settings_mass_download": {
+      "message": "고급 설정 (베타버전)"
+   },
+   "are_you_sure_delete": {
+      "message": "이 게시물을 삭제 하시겠습니까?"
+   },
+   "broadcast_finished": {
+      "message": "이 라이브 비디오가 종료되었습니다"
+   },
+   "btn_cancel": {
+      "message": "취소"
+   },
+   "btn_continue": {
+      "message": "계속"
+   },
+   "btn_enough": {
+      "message": "중지하고 저장"
+   },
+   "by_default_100": {
+      "message": "부전승으로 100%"
+   },
+   "change_rate": {
+      "message": "앱 등급 변경"
+   },
+   "check_network": {
+      "message": "인터넷 연결을 확인하고 다시 시도하세요"
+   },
+   "click_on_prev_for_download": {
+      "message": "미디어를 다운로드하려면 미리보기를 클릭하세요"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "comments_is_muted": {
+      "message": "댓글 기능이 숨김 상태입니다"
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "delete_by_mobile_mode": {
+      "message": "모바일 모드에서 삭제해보세요"
+   },
+   "delete_error": {
+      "message": "삭제 오류"
+   },
+   "disconnect_notification": {
+      "message": "Instagram™ 다운로더를 계속 사용하려면이 페이지를 새로 고침하세요"
+   },
+   "do_not_show_again": {
+      "message": "다시 표시하지 않음"
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "download_all": {
+      "message": "모두 다운로드"
+   },
+   "download_more_100_warning": {
+      "message": "대량의 파일을 다운로드하는 데 시간이 많이 걸릴 수 있으며 중단될 수 있습니다"
+   },
+   "download_zip": {
+      "message": "Instagram™ 서버에서 파일 다운로드"
+   },
+   "enter_search_query": {
+      "message": "검색 쿼리를 입력해주세요"
+   },
+   "enter_your_email": {
+      "message": "이메일"
+   },
+   "error403_possible_reasons": {
+      "message": "가능한 이유"
+   },
+   "error403_reason_1": {
+      "message": "Instagram 서버에 \"권한 없음\" 이라고 표시됩니다. Instagram 계정에 다시 로그인 하세요."
+   },
+   "error403_reason_2": {
+      "message": "다른 확장과 충돌합니다. 다른 확장을 끄고 다시 시도하십시오."
+   },
+   "errorZip": {
+      "message": "Zip 파일을 가져 오는 중 오류가 발생했습니다. 인터넷 연결 속도 또는 컴퓨터 전원 내에서 너무 많은 파일을 다운로드하려고 했을 가능성이 높습니다. 파일 수를 줄여 작업하거나 몇초 후에 다시 시도하십시오. 때때로 인스타그램™ 서버들은 많은 요청에 막혀 버리기도 합니다."
+   },
+   "error_dl_msg": {
+      "message": "다운로드 오류"
+   },
+   "error_network": {
+      "message": "네트워크 오류"
+   },
+   "error_reason_xz": {
+      "message": "다시 시도"
+   },
+   "extDescription": {
+      "message": "Instagram™ 에서 사진과 동영상을 빠르고 쉽게 다운로드하세요! 스토리 다운로드 지원! 한번의 클릭으로 대량 다운로드를 지원합니다!"
+   },
+   "extName": {
+      "message": "Downloader for Instagram™ + Direct Message"
+   },
+   "files_found_on_page": {
+      "message": "페이지에서 찾은 게시물"
+   },
+   "for_previous_days": {
+      "message": "지난 일"
+   },
+   "from": {
+      "message": "범위"
+   },
+   "go_to_instagram": {
+      "message": "Instagram.com으로 이동"
+   },
+   "hide_live_comments": {
+      "message": "댓글 숨기기"
+   },
+   "it_is_not_instagram": {
+      "message": "이 페이지에 Instagram™ 미디어가 없습니다"
+   },
+   "it_is_phone_mode": {
+      "message": "모바일 보기에서 팝업이 활성화되지 않았습니다"
+   },
+   "lang": {
+      "message": "ko"
+   },
+   "loading": {
+      "message": "불러오는 중"
+   },
+   "mass_download_pro": {
+      "message": "고급"
+   },
+   "mass_download_pro_back": {
+      "message": "고급 설정을 숨김"
+   },
+   "most_liked": {
+      "message": "가장 인기"
+   },
+   "most_viewed": {
+      "message": "가장 많이 본"
+   },
+   "new_post": {
+      "message": "새 게시물"
+   },
+   "new_story": {
+      "message": "새 스토리"
+   },
+   "next": {
+      "message": "다음"
+   },
+   "no": {
+      "message": "아니오"
+   },
+   "noLinksFound": {
+      "message": "링크를 찾을 수 없습니다"
+   },
+   "notAuthorizedMsg": {
+      "message": "인스타그램 계좌에 로그인 해 주세요"
+   },
+   "not_valid_email": {
+      "message": "이메일이 유효하지 않습니다"
+   },
+   "ok": {
+      "message": "확인"
+   },
+   "only_photo": {
+      "message": "사진만"
+   },
+   "only_video": {
+      "message": "비디오만"
+   },
+   "open_new_tab_for_surfing": {
+      "message": "서핑을 계속하려면 새 탭에서 Instagram.com을 여세요."
+   },
+   "parallel_all_download_denied": {
+      "message": "다른 탭에서 현재 다운로드가 완료될 때까지 기다려주세요."
+   },
+   "pleaseWait": {
+      "message": "기다려주십시오"
+   },
+   "prepare_zip_links": {
+      "message": "링크 준비 중"
+   },
+   "rate_us_modal": {
+      "message": "좋아한다면, 우리를 평가해 주세요."
+   },
+   "rate_us_popup": {
+      "message": "평가하기"
+   },
+   "reloadPage": {
+      "message": "Instagram™ 다운로더를 활성화하려면 페이지를 새로 고침하세요"
+   },
+   "reloadPageLong": {
+      "message": "설치 후 Instagram™ 페이지 새로 고침"
+   },
+   "reloadPageShort": {
+      "message": "페이지 새로 고침"
+   },
+   "remind_later": {
+      "message": "나중에 알림"
+   },
+   "report_a_problem": {
+      "message": "의견 남기기"
+   },
+   "retry_requests": {
+      "message": "파일 다시 시도 중"
+   },
+   "scroll_page_for_download_more": {
+      "message": "더 많은 파일을 다운로드하려면 페이지를 아래로 스크롤 하세요"
+   },
+   "send": {
+      "message": "보내기"
+   },
+   "set_percent": {
+      "message": "퍼센트를 설정함"
+   },
+   "set_range": {
+      "message": "범위 설정"
+   },
+   "show_live_comments": {
+      "message": "댓글 보이기"
+   },
+   "stories_page_filter_input": {
+      "message": "이름으로 필터함"
+   },
+   "stories_page_friends": {
+      "message": "친구"
+   },
+   "stories_page_friends_stories_header": {
+      "message": "스토리"
+   },
+   "stories_page_live_not_found": {
+      "message": "이 스토리를 못 찾음"
+   },
+   "stories_page_locations": {
+      "message": "위치"
+   },
+   "stories_page_no_stories_msg": {
+      "message": "스토리 없음"
+   },
+   "stories_page_no_stories_something_went_wrong_msg": {
+      "message": "스토리 없슴. 문제가 있습니다 :("
+   },
+   "stories_page_search": {
+      "message": "검색"
+   },
+   "stories_page_search_btn_people": {
+      "message": "이용자 중에 찾음"
+   },
+   "stories_page_search_btn_places": {
+      "message": "위치 중에 찾음"
+   },
+   "stories_page_search_btn_tags": {
+      "message": "태그 중에 찾음"
+   },
+   "stories_page_search_input_placeholder": {
+      "message": "키워드를 기입해 주세요"
+   },
+   "stories_page_top_lives": {
+      "message": "탑라이브"
+   },
+   "story_is_added": {
+      "message": "스토리가 성공적으로 추가되었습니다"
+   },
+   "story_is_not_available": {
+      "message": "더 이상 스토리가 없습니다"
+   },
+   "symbols_left": {
+      "message": "문자가 남았습니다"
+   },
+   "tab_is_not_complete": {
+      "message": "현재 탭로드가 완료되지 않았습니다"
+   },
+   "tag_people": {
+      "message": "사람들을 태그함"
+   },
+   "tag_people_confirm": {
+      "message": "확인"
+   },
+   "tag_people_msg": {
+      "message": "사람들을 태그하도록 사진을 클릭해주세요"
+   },
+   "thankyouText": {
+      "message": "Instagram™ 다운로더 를 설치해 주셔서 감사합니다!"
+   },
+   "to": {
+      "message": "에서"
+   },
+   "upload_by_mobile_mode": {
+      "message": "모바일 모드에서 업로드 해보세요"
+   },
+   "upload_error": {
+      "message": "업로드 오류"
+   },
+   "upload_file": {
+      "message": "사진 업로드 (jpeg 전용)"
+   },
+   "upload_to_profile": {
+      "message": "프로필에 추가"
+   },
+   "upload_to_stories": {
+      "message": "스토리에 추가"
+   },
+   "waiting_response_for_virtual_scroll": {
+      "message": "당황하지 마세요! Instagram.com 서버의 응답을 기다리고 있습니다."
+   },
+   "write_caption": {
+      "message": "캡션 작성... (최대 2000 자)"
+   },
+   "write_us": {
+      "message": "우리에게 쓰기"
+   },
+   "your_email": {
+      "message": "이메일"
+   },
+   "your_rate": {
+      "message": "당신의 등급"
+   }
+}
